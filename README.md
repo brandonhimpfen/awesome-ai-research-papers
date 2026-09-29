@@ -23,6 +23,7 @@
 - [AI Ethics and Fairness](#ai-ethics-and-fairness)
 - [Meta-Learning and Few-Shot Learning](#meta-learning-and-few-shot-learning)
 - [Graph Neural Networks](#graph-neural-networks)
+- [AI Ecosystems and Applications](#ai-ecosystems-and-applications)
 - [Resources for Finding Research Papers](#resources-for-finding-research-papers)
 - [Community](#community)
 - [Contribute](#contribute)
@@ -118,6 +119,10 @@
 - [Inductive Representation Learning on Large Graphs (2017)](https://arxiv.org/abs/1706.02216) - Introduces GraphSAGE, an inductive framework for generating node embeddings by sampling and aggregating neighborhood information.
 - [Graph Attention Networks (2017)](https://arxiv.org/abs/1710.10903) - Introduces Graph Attention Networks (GATs), which use attention mechanisms to weight information from neighboring nodes.
 - [How Powerful are Graph Neural Networks? (2018)](https://arxiv.org/abs/1810.00826) - Examines the expressive power of graph neural networks and introduces the Graph Isomorphism Network (GIN).
+
+## AI Ecosystems and Applications
+
+- [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem (2026)](https://arxiv.org/abs/2609.30216) - Surveys 2,170 public projects built around a typed decision model, mapping early growth, application domains, and decision-use patterns.
 
 ## Resources for Finding Research Papers
 
